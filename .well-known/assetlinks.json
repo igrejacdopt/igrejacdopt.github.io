@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.igrejacdopt.twa",
+      "sha256_cert_fingerprints": [
+        "DD:61:FC:09:B5:30:40:AE:63:9A:FF:53:E4:77:DA:47:84:03:5A:50:9E:8E:C1:FA:CC:7E:EE:E6:D2:F5:F9:A1"
+      ]
+    }
+  }
+]
